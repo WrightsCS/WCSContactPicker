@@ -297,9 +297,6 @@
     {
         if ( _contactsError ) {
             [[UIApplication sharedApplication] openURL:[NSURL URLWithString:UIApplicationOpenSettingsURLString]];
-            /* There is no need to compare address ti NULL pointer since COntacts are only available in iOS 9.
-                (&UIApplicationOpenSettingsURLString != NULL)
-             */
         }
     }
 }
