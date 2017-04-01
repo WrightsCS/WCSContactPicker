@@ -48,3 +48,8 @@ This object contains simple to access basic Contact information from `CNContact`
 Comments and feedback are welcome. Let me know if you contribute, find any bugs, have suggestions, etc. 
 Twitter: @WrightsCS
 http://www.wrightscsapps.com 
+
+Apps using WCSContactPicker
+------------
+
+If you are using this in your app, please let me know and I will add your app here!
